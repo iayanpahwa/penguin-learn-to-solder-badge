@@ -4,8 +4,8 @@
 
 ## Made for beginner Soldering workshops at [India Linux User group Delhi](http://linuxdelhi.org) and [Hardware Hackers Club Delhi](http://hardwarehackersclub.com)
 
-![image](images/front.JPG)
-![image](images/back.JPG)
+![image](https://github.com/iayanpahwa/penguin-learn-to-solder-badge/blob/master/Images/front.JPG)
+![image](https://github.com/iayanpahwa/penguin-learn-to-solder-badge/blob/master/Images/back.JPG)
 
 ## Coming Soon : (feel free to contribute)
 

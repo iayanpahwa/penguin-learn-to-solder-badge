@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Penguin_Learn_to_Solder_Badge")(type KiCad)(uri "$(KIPRJMOD)/Penguin_Learn_to_Solder_Badge.pretty")(options "")(descr ""))
+)

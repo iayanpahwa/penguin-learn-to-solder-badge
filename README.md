@@ -11,7 +11,7 @@
 
 - Through Hole Version
 - 555 Blinky version 
-
+- SAO version
 
 ## Made With ❤ for Open Hardware using:
 

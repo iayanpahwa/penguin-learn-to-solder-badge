@@ -2,7 +2,7 @@
 
 -------------------------------------
 
-## Made for beginner Soldering workshops at [India Linux User group Delhi](http://linuxdelhi.org) and [Hardware Hackers Club Delhi](http://hardwarehackersclub.com)
+## Made for beginner Soldering workshops at [India Linux User group Delhi](http://www.linuxdelhi.org) and [Hardware Hackers Club Delhi](http://hardwarehackersclub.com)
 
 ![image](https://github.com/iayanpahwa/penguin-learn-to-solder-badge/blob/master/Images/front.JPG)
 ![image](https://github.com/iayanpahwa/penguin-learn-to-solder-badge/blob/master/Images/back.JPG)

@@ -1,6 +1,9 @@
 # Learn to Solder Badge 
 
 -------------------------------------
+This project is Certified with [OSHWA](https://certification.oshwa.org/in000014.html) (OSHWA UID IN000014)
+
+![image](https://github.com/iayanpahwa/penguin-learn-to-solder-badge/blob/master/Images/oshwa.png)
 
 ## Made for beginner Soldering workshops at [India Linux User group Delhi](http://www.linuxdelhi.org) and [Hardware Hackers Club Delhi](http://hardwarehackersclub.com)
 

@@ -18,7 +18,7 @@ This project is Certified with [OSHWA](https://certification.oshwa.org/in000014.
 
 ## Made With ❤ for Open Hardware using:
 
-- [KiCad v4](http://kicad-pcb.org)
+- [KiCad v4](http://kicad.org)
 - [SVG2Shenzen Plugin](https://github.com/badgeek/svg2shenzhen)
 
 ### For best results fabricate in Black Solder Mask and White Silk Screen with ENIG-RHOS surface finish
